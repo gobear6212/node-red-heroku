@@ -8,6 +8,7 @@
         "feedparser":"~0.19.2",
         "redis":"~0.10.1",
         "node-red": "~2.x",
-        "lodash": "~4.x"
+        "lodash": "~4.x",
+        "node-red-contrib-telegrambot": "~11.2.4"
     }
 }
